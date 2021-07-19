@@ -137,3 +137,8 @@ nav .profile-link a {
     padding-bottom: 20px;
     text-align: center;
 }
+.blogs-button {
+    border: 1.5px solid #48cfad;
+    padding: 10px 15px;
+    font-size: 12px;
+}
